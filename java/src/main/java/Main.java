@@ -4,9 +4,13 @@
 public class Main {
     /**
      * dummy main (추후 삭제 예정).
+     *
      * @param args
      */
     public static void main(String[] args) {
+        double[] inputs = {1,2,3,4};
+        double[] outputs = {2,4,6,8};
+
         System.out.println("Hello world");
     }
 }
